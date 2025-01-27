@@ -7,6 +7,6 @@ This project focuses on creating a real-time competitive intelligence tool for e
 # Features:
 1. Competitor Data Aggregation: Track pricing and discount strategies
 2. Sentiment Analysis: Analyze customer reviews for actionable insights
-3.Predictive Modeling: Forecast competitor discounts
-4.Slack Integration: Get real-time notifications on competitor activity
+3. Predictive Modeling: Forecast competitor discounts
+4. Slack Integration: Get real-time notifications on competitor activity
 
