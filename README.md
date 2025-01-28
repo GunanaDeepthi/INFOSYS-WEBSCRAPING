@@ -11,8 +11,10 @@ This project focuses on creating a real-time competitive intelligence tool for e
 3. Predictive Modeling: Forecast competitor discounts
 4. Slack Integration: Get real-time notifications on competitor activity
 ## Setup Instructions
-## 1. Clone the Repository
-'''bash
+
+### 1. Clone the Repository
+
+```sh
 git clone <repository-url>
 cd <repository-directory>
 
