@@ -18,6 +18,13 @@ This project focuses on creating a real-time competitive intelligence tool for e
 git clone <repository-url>
 cd <repository-directory>
 
+### 1. Install Dependencies
+
+
+
+
+
+
 
 
 
