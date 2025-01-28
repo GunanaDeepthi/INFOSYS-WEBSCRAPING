@@ -15,8 +15,8 @@ This project focuses on creating a real-time competitive intelligence tool for e
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+(git clone <repository-url>
+cd <repository-directory>)
 
 
 
